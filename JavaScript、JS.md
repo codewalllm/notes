@@ -23,7 +23,7 @@ description:
 ```
 ### 3.行内：
 ```
-<script name="btn" type="button" value="按钮" onclick="javascript:alret("欢迎你")";/>
+<input name="btn" type="button" value="按钮" onclick="javascript:alret("欢迎你")";/>
 ```
 # 三、变量
 #### var用来定义变量
