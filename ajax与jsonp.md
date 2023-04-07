@@ -33,7 +33,7 @@ xhr.onreadystatechange=function () {
 //初始化ajax
 var xhr=new XMLHttpRequest();
 //获取后台数据
-xhr.open("get","links/1.get.php?username",true);
+xhr.open("post","links/1.get.php",true);
 //发送数据
 //需要加请求头
 xhr.setRequestHeader("Content-type","application/x-www-form-urlencoded");
