@@ -20,29 +20,13 @@ dism /online /get-targeteditions
 changepk.exe /productkey VK7JG-NPHTM-C97JM-9MPGT-3V66T
 ```
 ### 3、版本密钥
-- 1、家庭版
-```
-YTMG3-N6DKC-DKB77-7M9GH-8HVX7
-```
-- 2、专业版
+- 专业版
 ```
 VK7JG-NPHTM-C97JM-9MPGT-3V66T
 ```
-- 3、专业教育版
+### 4、查看密钥过期时间
 ```
-8PTT6-RNW4C-6V7J2-C2D3X-MHBPB
-```
-- 4、专业工作站版
-```
-DXG7C-N36C4-C4HTG-X4T3X-2YV77
-```
-- 5、企业版
-```
-XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
-```
-- 6、教育版
-```
-YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+slmgr.vbs -xpr
 ```
 # 三、激活工具
 - [链接](https://pan.baidu.com/s/19kZIfVhykhWgrDqsyIxDzw?_blank)
